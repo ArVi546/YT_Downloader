@@ -76,3 +76,4 @@ async def info(message: Message, command: CommandObject):
 if __name__ == '__main__':
  dp.run_polling(bot)
 
+#ydytrdyd
